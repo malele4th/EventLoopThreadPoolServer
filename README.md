@@ -23,6 +23,8 @@ https://github.com/yibo141/Servant
 
 **port**表示为端口号，比如8080.
 
+在浏览器地址栏输入：localhost:8080
+
 # Detail
 
 Servant是一个简单的用C++写的基于Reactor模式的多线程网络框架。
