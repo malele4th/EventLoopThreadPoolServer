@@ -1,10 +1,17 @@
+参考：
+
+https://www.cnblogs.com/broglie/p/5931375.html
+
+https://github.com/yibo141/Servant
+
+
 # Servant
 
 在以下环境下测试通过
 
- 运行环境：Linux 4.10.13
+ 运行环境：ubuntu 16.04.6
 
- 编译器：g++ 6.3.1
+ 编译器：g++ 5.4.0
 
 # Usage
 
@@ -50,6 +57,3 @@ Servant是一个简单的用C++写的基于Reactor模式的多线程网络框架
 
 **home.html**: 测试用的HTML页面。
 
-**test文件夹**是我的一些测试。
-
-### 更多详细信息请参考[我的博客](http://www.cnblogs.com/broglie/p/5931375.html)。
